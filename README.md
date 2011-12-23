@@ -1,0 +1,3 @@
+# nom
+
+Node module template

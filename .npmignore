@@ -1,0 +1,8 @@
+.DS_Store
+.git*
+*.coffee
+Cakefile
+docs/
+examples/
+src/
+test/
