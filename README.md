@@ -1,3 +1,3 @@
 # nom
 
-Node module template
+Node module generator
