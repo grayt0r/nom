@@ -1,7 +1,7 @@
 {
   "author": "Ross Grayton <rossgrayton@gmail.com>",
   "name": "nom",
-  "description": "Node module template",
+  "description": "Node module generator",
   "version": "0.0.1",
   "repository": {
     "type": "git",
